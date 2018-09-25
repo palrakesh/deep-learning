@@ -1,0 +1,194 @@
+order_date|time_slot|item|general_type|pack_size|quantity_uom|price
+7132018|5-Apr|Reddi Wip Dairy Whipped Topping Original 13 oz.|whipped_cream|13 oz.|1 × $3.88|$3.88 
+7132018|5-Apr|"Great Value Sunflower Oil, 1 Gal"|sf_cooking_oil|1 gal|1 × $11.88|$11.88 
+7132018|5-Apr|"Kellogg's Eggo Nutri-Grain Whole Wheat Waffles, 24.6 OZ"|waffles||1 × $4.88|$4.88 
+7132018|5-Apr|"Cilantro, 1 Bunch"|cilantro|1 Bunch|1 × $0.88|$0.88 
+7132018|5-Apr|Suave Kids Body Wash Tear Free Free and Gentle 12 oz|kids_wash||1 × $1.88|$1.88 
+7132018|5-Apr|Seventh Generation Dish Liquid Soap Clementine Zest & Lemongrass 25 oz|dish_wash||1 × $2.97|$2.97 
+7132018|5-Apr|Coffee-mate Coffee Creamer Sugar Free Italian Sweet Creme Liquid Coffee Creamer 32 fl. oz.|coffee_creamer|32 fl. Oz.|1 × $3.18|$3.18 
+7132018|5-Apr|GoGo Squeez Fruit & Veggiez Fruit & Veggies On The Go Pedal Pedal Peach - 4 CT|fruit_pouch||2 × $2.78|$5.56 
+7132018|5-Apr|"Spinach, 16 oz"|spinach||1 × $2.94|$2.94 
+7132018|5-Apr|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $2.54|$5.08 
+7132018|5-Apr|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|2 × $5.68|$11.36 
+7132018|5-Apr|"Great Value Syrup, Sugar Free, 24 fl oz"|pancake_syrup||1 × $1.98|$1.98 
+7132018|5-Apr|"Kellogg's Eggo Thick & Fluffy Original Recipe Waffles Family Pack, 12 Count, 23.2 oz"|waffles|12 Count|1 × $4.88|$4.88 
+7132018|5-Apr|"Marketside Cage Free Large Grade A Brown Eggs, 18 ct"|eggs||1 × $4.34|$4.34 
+7132018|5-Apr|"Strawberries, 1lb"|strawberries||1 × $1.97|$1.97 
+7132018|5-Apr|"Quaker Old Fashioned Oats, 42 oz Canister"|oats||1 × $3.98|$3.98 
+7132018|5-Apr|Charmin Ultra Strong Toilet Paper 12 Mega Rolls|toilet_paper||1 × $12.47|$12.47 
+7132018|5-Apr|"Lime-A-Way Bathroom Cleaner, 22oz Bottle, Removes Lime Calcium Rust"|bathroom_cleaner||1 × $3.98|$3.98 
+7132018|5-Apr|"Green Beans, per lb"|beans||0.87 × $1.78|$1.54 
+7182018|7-Jun|"Roma Tomatoes, each"|tomatoes||2.51 lb × $0.89 / lb|$2.23 
+7182018|7-Jun|"Green Bell Pepper, each"|bell_pepper||Lower price!2 × $0.59|$1.18 
+7182018|7-Jun|"Cauliflower, each"|cauliflower||1 × $2.97|$2.97 
+7182018|7-Jun|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+7182018|7-Jun|Rhodes Bake-N-Serv® Yeast Dinner Rolls 36 ct Bag|dinner_rolls||1 × $3.88|$3.88 
+7182018|7-Jun|"Horizon Organic Whole Milk, 0.5 gal"|milk|0.5 gal|1 × $4.46|$4.46 
+7182018|7-Jun|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+7182018|7-Jun|"Nature's Own 100% Whole Wheat Bread, 20 oz"|bread||1 × $2.68|$2.68 
+7182018|7-Jun|"Community Coffee Medium Roast Ground Coffee, Breakfast Blend, 32 Oz"|coffee||1 × $12.98|$12.98 
+7182018|7-Jun|"Aleve Easy Open Arthritis Cap Pain Reliever/Fever Reducer Naproxen Sodium Caplets, 220 mg, 100 Ct"|pain_killer||1 × $9.44|$9.44 
+7182018|7-Jun|"Blueberries, 24 oz Clamshell"|blueberries||1 × $5.94|$5.94 
+7182018|7-Jun|"Great Value Pitted Dates, 8 oz"|dates||1 × $2.88|$2.88 
+7182018|7-Jun|Segundo Romance|potatoes||0.77 × $0.98|$0.75 
+7282018|3-Feb|"Roma Tomatoes, each"|tomatoes||2.37 lb × $1.28 / lb|$3.03 
+7282018|3-Feb|"Royal Basmati Rice, 2 lbs"|rice||1 × $4.24|$4.24 
+7282018|3-Feb|"Spinach, 16 oz"|spinach||1 × $2.94|$2.94 
+7282018|3-Feb|"Marketside Organic Cage Free Large Grade A Brown Eggs, 18 ct"|eggs||1 × $5.74|$5.74 
+7282018|3-Feb|"Cauliflower, each"|cauliflower||1 × $2.97|$2.97 
+7282018|3-Feb|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+7282018|3-Feb|"Great Value Automatic Dishwasher Pacs, Fresh Scent, 32 Count"|dish_wash||1 × $4.47|$4.47 
+7282018|3-Feb|"Fisher Chef's Naturals Natural Sliced Almonds, 16 oz"|almonds||1 × $8.24|$8.24 
+7282018|3-Feb|"Olay Age Defying Classic Facial Cleanser, 6.78 fl oz"|face_wash||1 × $4.67|$4.67 
+7282018|3-Feb|"Crest Kid's Cavity Protection Toothpaste for Kids (children and toddlers 2+), Sparkle Fun Flavor, 2.7 ounces"|kids_toothpaste||1 × $0.98|$0.98 
+7282018|3-Feb|"Crest Pro-Health Advanced Gum Protection Toothpaste, 5.1 Oz"|toothpaste||1 × $3.92|$3.92 
+7282018|3-Feb|Aspercreme Maximum Strength Lidocaine Pain Relieving Creme|pain_killer||1 × $6.48|$6.48 
+7282018|3-Feb|"Hot Shot Clean Fresh Scent Flying Insect Killer, 15-Ounce"|insect_killer||1 × $2.93|$2.93 
+7282018|3-Feb|"Great Value Sweet Peas, 12 oz"|peas||1 × $0.84|$0.84 
+7282018|3-Feb|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+7282018|3-Feb|"Strawberries, 1lb"|strawberries||1 × $2.27|$2.27 
+7282018|3-Feb|"Horizon Organic Whole Milk, 0.5 gal"|milk|0.5 gal|1 × $4.46|$4.46 
+7282018|3-Feb|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $2.54|$5.08 
+7282018|3-Feb|"Scotch-Brite Stainless Steel Scrubbing Pads, 3 Pack"|dish_scrub||1 × $1.93|$1.93 
+8032018|8-Jul|"Roma Tomatoes, each"|tomatoes||1.23 lb × $1.28 / lb|$1.57 
+8032018|8-Jul|"Green Bell Pepper, each"|bell_pepper||2 × $0.88|$1.76 
+8032018|8-Jul|"Spinach, 16 oz"|spinach||1 × $2.94|$2.94 
+8032018|8-Jul|"Blueberries, 24 oz Clamshell"|blueberries||1 × $5.94|$5.94 
+8032018|8-Jul|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $2.54|$5.08 
+8032018|8-Jul|"Organic Red Potatoes, 3 lbs"|potatoes||1 × $4.96|$4.96 
+8032018|8-Jul|"Crest Pro-Health Advanced Alcohol Free Extra Deep Clean Mouthwash, 1 L"|mouthwash||1 × $5.97|$5.97 
+8032018|8-Jul|"Febreze Unstopables FRESH Air Freshener (1 Count, 250 g)"|airfreshner||1 × $3.97|$3.97 
+8032018|8-Jul|"Fisher Chef's Naturals Walnut Halves & Pieces, 16 oz"|walnut||1 × $7.34|$7.34 
+8032018|8-Jul|"Bush's Garbanzos, 16 Oz"|chickpeas||2 × $0.92|$1.84 
+8032018|8-Jul|"Kelley's Texas Country Style Pure Honey, 24 oz"|honey||1 × $6.94|$6.94 
+8032018|8-Jul|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|2 × $5.68|$11.36 
+8032018|8-Jul|Coffee-mate Coffee Creamer Sugar Free Italian Sweet Creme Liquid Coffee Creamer 32 fl. oz.|coffee_creamer|32 fl. Oz.|1 × $3.18|$3.18 
+8032018|8-Jul|"Nature's Own 100% Whole Wheat Bread, 20 oz"|bread||1 × $2.68|$2.68 
+8032018|8-Jul|"Great Value Iodized Salt, 26 oz"|salt||1 × $0.54|$0.54 
+8032018|8-Jul|"Ginger Root, 1 lb"|ginger||0.72 × $3.98|$2.86 
+8102018|5-Apr|"Organic Bananas, bunch"|bananas||2.37 lb × $0.68 / lb|$1.61 
+8102018|5-Apr|"Roma Tomatoes, each"|tomatoes||0.97 lb × $1.28 / lb|$1.24 
+8102018|5-Apr|"Red Bull Sugarfree Energy Drink, 8.4 Fl Oz, 4 Count"|energy_drink||1 × $6.24|$6.24 
+8102018|5-Apr|"Gain Coldwater Liquid Laundry Detergent with Oxi Boost, Icy Fresh Fizz, 64 Loads, 100 fl oz"|laundry_detergent||1 × $9.94|$9.94 
+8102018|5-Apr|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+8102018|5-Apr|"Horizon Organic Whole Milk, 0.5 gal"|milk|0.5 gal|1 × $4.46|$4.46 
+8102018|5-Apr|"Great Value Cajun Trail Mix, 27 Oz"|trail_mix||1 × $5.38|$5.38 
+8102018|5-Apr|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+8102018|5-Apr|"Key Limes, 1 lb"|lime||1 × $2.88|$2.88 
+8102018|5-Apr|"Cauliflower, each"|cauliflower||1 × $2.97|$2.97 
+8102018|5-Apr|"Sweet Italian Red Onions, 2 lbs"|onions||1 × $2.54|$2.54 
+8102018|5-Apr|"Strawberries, 1lb"|strawberries||Lower price!1 × $2.27|$2.27 
+8102018|5-Apr|"Great Value Unsweetened Vanilla Almond Milk, 64 oz"|almond_milk||1 × $2.57|$2.57 
+8102018|5-Apr|"Marketside Organic Cage Free Large Grade A Brown Eggs, 18 ct"|eggs||1 × $5.74|$5.74 
+8102018|5-Apr|"Great Value Sunflower Oil, 1 Gal"|sf_cooking_oil|1 gal|1 × $11.88|$11.88 
+8102018|5-Apr|Yoplait Go-Gurt Disney Frozen Variety Pack Yogurt 32 oz 16 Count|yogurt||1 × $4.47|$4.47 
+8102018|5-Apr|"Frigo Cheese Heads String Cheese, 16 ct"|cheese_sticks||1 × $3.98|$3.98 
+8102018|5-Apr|"Great Value Organics Green Peas, 12 oz"|peas||1 × $1.88|$1.88 
+8102018|5-Apr|Reddi Wip Dairy Whipped Topping Original 13 oz.|whipped_cream|13 oz.|1 × $3.88|$3.88 
+8102018|5-Apr|"Kellogg's Eggo Nutri-Grain Whole Wheat Waffles, 24.6 OZ"|waffles||1 × $4.88|$4.88 
+8102018|5-Apr|"Kellogg's Eggo Thick & Fluffy Original Recipe Waffles Family Pack, 12 count, 23.2 oz"|waffles|12 Count|1 × $4.88|$4.88 
+8102018|5-Apr|"Great Value Double Zipper Portion Pack Snack Bags, 80 Count"|ziplock||1 × $2.68|$2.68 
+8102018|5-Apr|"Red Seedless Grapes, 2 lb Clamshell"|grapes||Lower price!1.31 × $1.98|$2.59 
+8172018|1-Dec|"Roma Tomatoes, each"|tomatoes||1.57 lb × $1.28 / lb|$2.00 
+8172018|1-Dec|"Spinbrush Pro Series Daily Clean Soft Replacement Brush Heads, 2 count"|spinbrush_head||1 × $7.88|$7.88 
+8172018|1-Dec|"Great Value Whole Red Raspberries, 24 oz"|raspberries||1 × $6.98|$6.98 
+8172018|1-Dec|"Sam's Choice Slow Roasted Creamy Almond Butter, 12 oz"|almond_butter||1 × $4.98|$4.98 
+8172018|1-Dec|"Community Coffee Medium Roast Ground Coffee, Breakfast Blend, 32 Oz"|coffee||1 × $12.98|$12.98 
+8172018|1-Dec|"Benefiber Healthy Shape Taste-Free Fiber Supplement Powder for Weight Management, 33 servings (8.7 ounces)"|fiber||1 × $11.47|$11.47 
+8172018|1-Dec|"Great Value Dry Roasted & Unsalted Peanuts, 16.0 OZ"|roasted_peanuts||1 × $2.58|$2.58 
+8172018|1-Dec|Pledge Multi Surface Antibacterial Everyday Cleaner 9.7 Ounces.|surface_cleaner||1 × $4.23|$4.23 
+8172018|1-Dec|"Softsoap Liquid Hand Soap Refill, Clean Splash - 56 oz"|handsoap||1 × $3.97|$3.97 
+8172018|1-Dec|"Quaker Old Fashioned Oats, 42 oz Canister"|oats||1 × $3.98|$3.98 
+8172018|1-Dec|"Scotch-Brite Heavy Duty Scrub and Scour Pad, 6 Pads per Pack"|dish_scrub||1 × $4.48|$4.48 
+8172018|1-Dec|"Marketside Baby Spinach, 6 oz"|spinach||1 × $2.98|$2.98 
+8172018|1-Dec|C&H? Pure Cane Sugar 1 lb. Box|sugar||1 × $1.28|$1.28 
+8172018|1-Dec|Coffee-mate Coffee Creamer Sugar Free Italian Sweet Creme Liquid Coffee Creamer 32 fl. oz.|coffee_creamer|32 fl. Oz.|1 × $3.18|$3.18 
+8172018|1-Dec|"Great Value Classic Olive Oil, 17 oz"|olive_oil||1 × $4.48|$4.48 
+8172018|1-Dec|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+8172018|1-Dec|"Nature's Own 100% Whole Wheat Bread, 20 oz"|bread||1 × $2.68|$2.68 
+8172018|1-Dec|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $1.94|$3.88 
+8172018|1-Dec|"Gold Bond Rapid Relief Anti-Itch Cream, 1.25 OZ"|anti_itch||1 × $3.78|$3.78 
+8172018|1-Dec|"Micasa Flour 8"" Soft Taco Style Tortillas, 10 ct"|tortilla||1 × $2.18|$2.18 
+8172018|1-Dec|"Great Value Freeze Dried Fruit Crisps Variety Pack, 6 Count"|fruit_crisps||1 × $4.48|$4.48 
+8172018|1-Dec|"Arm & Hammer Moisture Absorber & Odor Eliminator Tub, 14 Oz"|ordor_eliminator||1 × $4.93|$4.93 
+8172018|1-Dec|"Green Cabbage, each"|cabbage||2.97 × $0.78|$2.31 
+8222018|4-Mar|"Organic Bananas, bunch"|bananas||2.47 lb × $0.68 / lb|$1.67 
+8222018|4-Mar|"Nabisco Ritz Original Classic Crackers, 13.7 oz"|cracker||1 × $2.56|$2.56 
+8222018|4-Mar|"Juicy Juice 100% Juice, Strawberry Watermelon, 6.75 Fl Oz, 8 Count"|juice||1 × $2.78|$2.78 
+8222018|4-Mar|"Strawberries, 1lb"|strawberries||1 × $2.67|$2.67 
+8222018|4-Mar|"Avocados, each"|avocado||2 × $0.98|$1.96 
+8222018|4-Mar|"Sabra Classic Hummus, 10 oz Container"|hummus||1 × $2.98|$2.98 
+8222018|4-Mar|"Blueberries, 24 oz Clamshell"|blueberries||1 × $5.94|$5.94 
+8222018|4-Mar|"Spice World Fresh Garlic, 20 oz"|garlic||1 × $3.98|$3.98 
+8222018|4-Mar|"Spinach, 16 oz"|spinach||1 × $2.94|$2.94 
+8222018|4-Mar|"Crest Complete Whitening + Scope Toothpaste, 6.2 Oz"|toothpaste||1 × $2.97|$2.97 
+8222018|4-Mar|"Bounty Essentials Paper Towels, Select-A-Size, 6 Giant Rolls"|paper_towels||1 × $5.74|$5.74 
+8222018|4-Mar|"Green Bell Pepper, each"|bell_pepper||2 × $0.88|$1.76 
+8222018|4-Mar|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|2 × $5.68|$11.36 
+8222018|4-Mar|"Marketside Organic Cage Free Large Grade A Brown Eggs, 18 ct"|eggs||1 × $5.74|$5.74 
+8222018|4-Mar|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $1.94|$3.88 
+8222018|4-Mar|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+8222018|4-Mar|"Kraft Shredded Mild Cheddar Cheese, 8 oz"|cheese||1 × $2.38|$2.38 
+8222018|4-Mar|"BUSH'S BEST Black Beans Reduced Sodium, 15.0 OZ"|black_beans||1 × $0.92|$0.92 
+8222018|4-Mar|"McCormick Original Taco Seasoning Mix, 1 Oz"|taco_seasoning||1 × $0.88|$0.88 
+8302018|9-Aug|"Roma Tomatoes, each"|tomatoes||2.07 lb × $1.28 / lb|$2.64 
+8302018|9-Aug|Reddi Wip Dairy Whipped Topping Original 13 oz.|whipped_cream|13 oz.|1 × $3.88|$3.88 
+8302018|9-Aug|"Kellogg's Eggo Thick & Fluffy Original Recipe Waffles Family Pack, 12 Count, 23.2 oz"|waffles|12 Count|1 × $4.88|$4.88 
+8302018|9-Aug|"Sweet Italian Red Onions, 2 lbs"|onions||2 × $1.94|$3.88 
+8302018|9-Aug|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+8302018|9-Aug|"Kelley's Texas Country Style Pure Honey, 24 oz"|honey||1 × $6.94|$6.94 
+8302018|9-Aug|"Great Value Extra Virgin Olive Oil Cooking Spray, 7 oz"|olive_oil||1 × $2.47|$2.47 
+8302018|9-Aug|"Bush's Garbanzos, 16 Oz"|chickpeas||2 × $0.92|$1.84 
+8302018|9-Aug|"Horizon Organic Whole Milk, 0.5 gal"|milk|0.5 gal|1 × $4.46|$4.46 
+8302018|9-Aug|"Marketside Organic Cage Free Large Grade A Brown Eggs, 18 ct"|eggs||1 × $5.74|$5.74 
+8302018|9-Aug|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+8302018|9-Aug|"Limes, each"|lime||5 × $0.38|$1.90 
+8302018|9-Aug|"Great Value Unsweetened Vanilla Almond Milk, 64 oz"|almond_milk||1 × $2.57|$2.57 
+8302018|9-Aug|Nature Valley Chewy Granola Bar Protein Coconut Almond 5 Bars - 1.4 oz|protein_bar||1 × $3.48|$3.48 
+8302018|9-Aug|Seventh Generation Dish Liquid Soap Clementine Zest & Lemongrass 25 oz|dish_wash||1 × $2.97|$2.97 
+8302018|9-Aug|"Great Value Iodized Salt, 26 oz"|salt||1 × $0.54|$0.54 
+8302018|9-Aug|"Great Value Soak-Proof Foam Plates, 60 Count"|foam_plates||1 × $2.17|$2.17 
+8302018|9-Aug|"Great Value Tall Kitchen Drawstring Trash Bags, 13 Gallon, 45 Count"|trash_bags||1 × $5.12|$5.12 
+8302018|9-Aug|"Equate Flushable Wipes, Fresh Scent, 48 Ct, 3 Pack"|wipes||1 × $3.97|$3.97 
+8302018|9-Aug|"Red Seedless Grapes, 2 lb Clamshell"|grapes||2.19 × $1.88|$4.11 
+9072018|4-Mar|"Organic Bananas, bunch"|bananas||3.33 lb × $0.68 / lb|$2.26 
+9072018|4-Mar|"Avocado, 3ct Bag"|avocado||1 × $2.94|$2.94 
+9072018|4-Mar|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+9072018|4-Mar|"Orville Redenbacher's SmartPop! Butter Popcorn, 1.16 Ounce Single Serve Bag, 12-Count"|popcorn||1 × $3.98|$3.98 
+9072018|4-Mar|Marketside Organic Cauliflower|cauliflower||1 × $3.96|$3.96 
+9072018|4-Mar|Arm & Hammer™ Simply Saline™ Nasal Relief Nasal Mist 3.0 fl. oz. Spout-Top Can|nasal_mist||2 × $5.24|$10.48 
+9072018|4-Mar|"Lucky Charms Gluten Free Breakfast Cereal, 20.5 oz"|cereal||1 × $3.64|$3.64 
+9072018|4-Mar|"Sweet Italian Red Onions, 2 lbs"|onions||1 × $1.94|$1.94 
+9072018|4-Mar|"Kellogg's Eggo Nutri-Grain Whole Wheat Waffles, 24.6 OZ"|waffles||1 × $4.88|$4.88 
+9072018|4-Mar|Coffee-mate Coffee Creamer Sugar Free Italian Sweet Creme Liquid Coffee Creamer 32 fl. oz.|coffee_creamer|32 fl. Oz.|1 × $3.18|$3.18 
+9072018|4-Mar|"Cucumber, each"|cucmber||1 × $0.78|$0.78 
+9072018|4-Mar|"Strawberries, 1lb"|strawberries||1 × $2.67|$2.67 
+9072018|4-Mar|"Horizon Organic Whole Milk, 0.5 gal"|milk|0.5 gal|1 × $4.46|$4.46 
+9072018|4-Mar|"Great Value Organic 2% Milk, 1 gallon"|milk|1 gal|1 × $5.68|$5.68 
+9072018|4-Mar|"Fisher Chef's Naturals Walnut Halves & Pieces, 16 oz"|walnut||1 × $7.34|$7.34 
+9072018|4-Mar|"Chosen Foods Organic Chia Seeds, 1.0 Lb"|chia_seeds||1 × $5.37|$5.37 
+9072018|4-Mar|"Great Value Shredded Queso Quesadilla Cheese, 8 Oz."|cheese||1 × $2.22|$2.22 
+9072018|4-Mar|Sargento® Snacks Mozzarella String Cheese™ Sticks 12 ct Bag|cheese_sticks||1 × $3.94|$3.94 
+9072018|4-Mar|"Nature's Own 100% Whole Wheat Bread, 20 oz"|bread||1 × $2.68|$2.68 
+9072018|4-Mar|"Lime-A-Way Bathroom Cleaner, 22oz Bottle, Removes Lime Calcium Rust"|bathroom_cleaner||1 × $3.98|$3.98 
+9072018|4-Mar|"Clorox Toilet Bowl Cleaner with Bleach, Rain Clean - 24 oz, 2 Pack"|toilet_cleaner||1 × $3.72|$3.72 
+9072018|4-Mar|Gevalia Heritage Collection Decaf House Blend Ground Coffee 12 oz. Bag|coffee||1 × $6.48|$6.48 
+9072018|4-Mar|"Charmin Ultra Strong Mega Rolls Unscented Bathroom Tissue, 9 rolls"|toilet_paper||1 × $9.97|$9.97 
+9072018|4-Mar|"Crest Kid's Cavity Protection Toothpaste for Kids (children and toddlers 2+), Sparkle Fun Flavor, 2.7 ounces"|kids_toothpaste||1 × $0.98|$0.98 
+9182018|4-Mar|"Cilantro, 1 Bunch"|cilantro||1 × $0.88|$0.88 
+9182018|4-Mar|"Sweet Italian Red Onions, 2 lbs"|onions||1 × $1.94|$1.94 
+9182018|4-Mar|"Great Value Sunflower Oil, 1 Gal"|sf_cooking_oil|1 gal|1 × $11.88|$11.88 
+9182018|4-Mar|"Marketside Organic Baby Carrots, 16 oz"|baby_carrots||1 × $1.76|$1.76 
+9182018|4-Mar|Coffee-mate Coffee Creamer Sugar Free Italian Sweet Creme Liquid Coffee Creamer 32 fl. oz.|coffee_creamer|32 fl. Oz.|1 × $3.18|$3.18 
+9182018|4-Mar|"Kellogg's Eggo Thick & Fluffy Original Recipe Waffles Family Pack, 12 Count, 23.2 oz"|waffles|12 Count|1 × $4.88|$4.88 
+9182018|4-Mar|"Great Value Cut Green Beans, 12 oz"|beans||1 × $0.84|$0.84 
+9182018|4-Mar|"Great Value Sweet Peas, 12 oz"|peas||1 × $0.84|$0.84 
+9182018|4-Mar|"Georgia-Pacific Standard Paper 8.5"" x 11"", 20lb/92 Bright, 500 Sheets"|printer_paper||1 × $3.68|$3.68 
+9182018|4-Mar|Kellogg's Nutri-Grain Soft Baked Strawberry Breakfast Bars 8-1.3 oz. Bars|cereal_bar||1 × $2.50|$2.50 
+9182018|4-Mar|"Barilla Pasta Tri-Color Rotini Pasta, 12.0 OZ"|pasta||1 × $1.38|$1.38 
+9182018|4-Mar|Little Remedies Baby Sterile Saline Mist|nasal_mist||1 × $5.27|$5.27 
+9182018|4-Mar|"Lysol Disinfecting Wipes, Lemon & Lime Blossom, 105ct (3X35ct)"|wipes||1 × $5.27|$5.27 
+9182018|4-Mar|"Great Value Whole Red Raspberries, 24 oz"|raspberries||1 × $6.98|$6.98 
+9182018|4-Mar|"Great Value Whole Blueberries, 48 oz"|blueberries||1 × $9.96|$9.96 
+9182018|4-Mar|"Stonyfield Plain Organic Whole Milk Yogurt, 32 oz"|yogurt||1 × $3.97|$3.97 
+9182018|4-Mar|"Oreo Thins Cookies, 10.1 Oz"|cookies||1 × $2.98|$2.98 
